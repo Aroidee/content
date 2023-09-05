@@ -53,7 +53,8 @@ function adder(base /*, num1, …, numN */) {
 
 ## See also
 
-- [Functions guide](/en-US/docs/Web/JavaScript/Guide/Functions)
+- [Functions guide](/en-US/do-cs/Web/JavaScript/Guide/Functions)
 - [Functions](/en-US/docs/Web/JavaScript/Reference/Functions)
 - {{jsxref("Functions/arguments", "arguments")}}
-- [`Function`: `length`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/length)
+i- [`Function`: `length`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/length)
+
